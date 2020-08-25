@@ -1,4 +1,4 @@
-`
+```
 //得到文件目录  
 void GetAllFile( std::string root, list<string>& files,bool bFile ,std::string addpath,bool bFullPath,int iLevel )  
 { 
@@ -81,4 +81,4 @@ void GetAllFile( std::string root, list<string>& files,bool bFile ,std::string a
 	  
 	_findclose(Handle);  
 } 
-`
+```
