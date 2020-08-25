@@ -1,2 +1,2 @@
 # 怎么搞
-[](zhoufashi.github.io/StringCstring.md)
+[StringCString](zhoufashi.github.io/StringCstring.md)
