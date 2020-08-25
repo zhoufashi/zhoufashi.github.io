@@ -1,4 +1,3 @@
-# zhoufashi.github.io
 CString toCString( std::string str )
 {
 #ifdef _UNICODE
