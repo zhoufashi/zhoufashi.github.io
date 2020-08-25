@@ -1,3 +1,4 @@
+//格式化字符串
 std::string FormatString( const char *str,... )   
 {   
 char msg[1024] = { 0 };   

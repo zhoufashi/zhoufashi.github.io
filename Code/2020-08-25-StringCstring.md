@@ -1,3 +1,4 @@
+  //CString转string
   CString toCString( std::string str )
   {
   #ifdef _UNICODE
@@ -14,6 +15,7 @@
   #endif
   }
   
+  //string转CString
   std::string toString( CString cs )
   {
   #ifdef _UNICODE
