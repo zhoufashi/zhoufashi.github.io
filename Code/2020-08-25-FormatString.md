@@ -1,3 +1,4 @@
+`
 //格式化字符串  
 std::string FormatString( const char *str,... )  
 {  
@@ -7,7 +8,7 @@ va_start(pArgList, str);
 int nSize = vsprintf_s(msg, str, pArgList);   
 va_end(pArgList);   
 if (nSize==0){   
-	return "";   
+return "";   
 }   
 std::string strData = string(msg,nSize);   
 //char *pData = new char[iSize];   
@@ -16,4 +17,4 @@ std::string strData = string(msg,nSize);
 //pData->pData[nSize]='\0';   
 return strData;   
 }   
-     
+`

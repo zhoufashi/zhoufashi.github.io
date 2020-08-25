@@ -1,3 +1,4 @@
+`
 //CString转string  
 CString toCString( std::string str )  
 {  
@@ -29,4 +30,5 @@ std::string str(cs.GetBuffer());
 cs.ReleaseBuffer();  
 return str;  
 #endif  
-}  
+}
+`
