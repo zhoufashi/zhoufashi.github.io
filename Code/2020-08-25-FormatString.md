@@ -1,7 +1,7 @@
 //格式化字符串
-std::string FormatString( const char *str,... )   
-{   
-char msg[1024] = { 0 };   
+std::string FormatString( const char *str,... )  
+{  
+char msg[1024] = { 0 };  
 va_list pArgList;   
 va_start(pArgList, str);   
 int nSize = vsprintf_s(msg, str, pArgList);   
