@@ -1,3 +1,4 @@
+# zhoufashi.github.io
 std::string FormatString( const char *str,... )
 {
 	char msg[1024] = { 0 };
