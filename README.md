@@ -12,8 +12,8 @@
 
 -----------------    
 ## 安卓
-- [知识点](Android/2020-08-27-knowledge.md)  
-- [颜色](Android/2020-08-27-Color.md)  
+- [知识点](Android/2020-08-27-knowledgepoint.md)  
+- [颜色](Android/2020-08-27-color.md)  
 
 -----------------    
 ## 小程序   
@@ -24,7 +24,7 @@
 
 -----------------
 ## 其他   
-- [知识点](OtherNote/2020-08-28-website.md)  
+- [知识点](OtherNote/2020-08-28-websiteinfo.md)  
 
 
 [MarkDown语法说明](markdown.md)  
