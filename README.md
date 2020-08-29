@@ -24,7 +24,7 @@
 
 -----------------
 ## 其他   
-- [知识点](Other/website.md)  
+- [知识点](Other/2020-08-28-website.md)  
 
 
 [MarkDown语法说明](markdown.md)  
