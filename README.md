@@ -14,7 +14,7 @@
 ## 安卓
 - [知识点](Android/2020-08-27-knowledgepoint.md)  
 - [颜色](Android/2020-08-27-color.md)  
-
+- [清单](Android/AndroidModule.md)  
 -----------------    
 ## 小程序   
 - [知识点](MiniProgram/2020-08-27-knowledge.md)  
