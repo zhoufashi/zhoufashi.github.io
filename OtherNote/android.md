@@ -1,0 +1,49 @@
+四大组件 活动,广播，内容提供者，服务
+UI布局   框架，线性，绝对，相对，表格，约束
+多线程   Thread,Runnable,Handler,AsysTask,IntentService,HandlerThread
+动画     补间，属性，帧动画，插值器&估值器
+视图      View流程(measure,layout,draw),事件分发机制
+性能      内存优化，内存泄漏，绘制优化，布局优化
+图片加载  glide,fresco,picasso,android-universal-image-loader
+网络请求  retrofit,okhttp,volley
+异步处理  Rxjava,RxAndroid,RxBinding,EventBus
+
+
+一、Android四大组件
+二、Fragment相关
+三、动画相关
+四、布局相关
+五、数据存储
+六、线程、进程
+七、网络
+八、WebView
+九、图片
+十、Camera相关
+十一、音视频相关
+十二、ViewPager相关
+十三、RecyclerView相关
+十四、Canvas相关
+十五、传感器相关
+十六、性能优化
+十七、UI适配
+十八、Android中的Context
+十九、序列化与反序列化
+二十、JSON解析
+二十一、二维码
+二十二、Permission权限
+二十三、Activity工作原理
+二十四、View事件分发机制
+二十五、View的绘制流程
+二十六、自定义view基本流程
+二十七、Apk的打包/安装过程
+二十八、App混淆
+二十九、App冷启动优化
+三十、子线程不能更新UI
+三十一、Android Studio Gradle
+三十二、adb相关
+三十三、逆向安全
+三十四、NDK开发
+三十五、设计模式
+三十六、架构模式
+
+https://blog.csdn.net/lyabc123456/article/details/83247650网址
