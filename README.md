@@ -36,7 +36,6 @@
 
 -----------------
 ## 其他   
-- [知识点](OtherNote/2020-08-28-websiteinfo.md)  
+- [网站](OtherNote/2020-08-28-websiteinfo.md)  
 - [右键添加目录](OtherNote/2020-11-26-AddRightCmd.md)  
-
-[MarkDown语法说明](markdown.md)  
+- [MarkDown语法说明](markdown.md)  
