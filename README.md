@@ -9,6 +9,9 @@
 - [分割字符串](Code/2020-08-25-split.md)   
 - [完成端口](Code/2020-08-27-IOCP.md)  
 
+-----------------
+## C++
+
 -----------------    
 ## 算法
 - [排序算法](Algorithm/2020-08-27-sortalgorithm.md)  
@@ -18,7 +21,7 @@
 ## 安卓
 - [知识点](Android/2020-08-27-knowledgepoint.md)  
 - [颜色](Android/2020-08-27-color.md)  
-- [清单](Android/AndroidModule.md)  
+- [清单](Android/2020-09-18-AndroidModule.md)  
 
 -----------------    
 ## 小程序   
@@ -29,11 +32,11 @@
 
 -----------------
 ## Cococs  
-- [知识点](Cocos/2020-11-21-MakeCocosByCmake.md) 
+- [创建cocos的Win工程](Cocos/2020-11-21-MakeCocosByCmake.md) 
 
 -----------------
 ## 其他   
 - [知识点](OtherNote/2020-08-28-websiteinfo.md)  
-
+- [右键添加目录](OtherNote/2020-11-26-AddRightCmd.md)  
 
 [MarkDown语法说明](markdown.md)  
