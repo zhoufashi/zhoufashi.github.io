@@ -29,12 +29,26 @@ png的官网：<http://www.libpng.org/pub/png/>
 
 ## IHDR 数据块 简介
 
+
+
 ### IHDR 数据块简介 :
 
 - 1.IHDR 数据块作用 : 文件头数据块 , 存储图像数据的基本信息 , 是 PNG 文件的第一个数据块 , 该类型数据块只能有一个 ;
 
 - 2.数据块大小 : 该数据块由 13 字节组成 , 分为 7个部分 ;  
 
+```
+struct PNG_IHDR {
+	int Width;
+	int Height;
+	char BitDepth;
+	char ColorType;
+	char Comethod;
+	char Filthod;
+	char Interthod;
+	char CRC[4];
+}IHDR;
+```
 
 ## IHDR 数据块 结构 :
 
