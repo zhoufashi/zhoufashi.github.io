@@ -25,3 +25,5 @@ fclose(pf);
 strData=string(pData,iSize);
 free(pData);
 ```
+
+[返回2](../) 

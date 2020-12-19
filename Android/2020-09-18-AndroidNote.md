@@ -1,4 +1,4 @@
-`
+```
 Activity 类是 Android 应用的关键组件，而 Activity 的启动和组合方式则是该平台应用模型的基本组成部分。
 Activity 提供窗口供应用在其中绘制界面
 	
@@ -17,3 +17,5 @@ Activity 生命周期
 	BActivity:onCreate()->onStart()->onResume()
 	AActivity:onStop()->onDestory()
 ```
+
+[返回2](../) 
