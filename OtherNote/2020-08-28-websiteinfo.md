@@ -1,35 +1,35 @@
-#ÃÀÊõÑ§Ï°
-[ÍøÕ¾1:]<https://www.bilibili.com/video/av31637405/?p=20>
+ï»¿#ç¾æœ¯å­¦ä¹ 
+[ç½‘ç«™1:]<https://www.bilibili.com/video/av31637405/?p=20>
 
-[ÍøÕ¾2:]<http://www.xueui.cn/category/tutorials/photoshop-tutorials>
+[ç½‘ç«™2:]<http://www.xueui.cn/category/tutorials/photoshop-tutorials>
 
-[Íâ¹ÒÏà¹ØÑ§Ï°ÍøÕ¾:  ]<http://www.cnblogs.com/gamesky/archive/2013/02/05/2893281.html>
-[¹ãº£ÉçÇø¡¡]<https://www.ghoffice.com>
-[Íâ¹Òº£       ](https://www.wghai.com>
-#Íâ¹ÒÖÆ×÷±Ø±¸¹¤¾ßÏÂÔØ: ¹¤¾ßÏÂÔØ:  
-[peid 0.94ÓÃÓÚ²é¿Ç,ÖªµÀÊ²Ã´¿Ç¾Í¿ÉÒÔÍÑ¿ÇÀ­:   ](http://www.pediy.com/tools/unpack/File_analysers/peid/peid.rar)
+[å¤–æŒ‚ç›¸å…³å­¦ä¹ ç½‘ç«™:  ]<http://www.cnblogs.com/gamesky/archive/2013/02/05/2893281.html>
+[å¹¿æµ·ç¤¾åŒºã€€]<https://www.ghoffice.com>
+[å¤–æŒ‚æµ·       ](https://www.wghai.com>
+#å¤–æŒ‚åˆ¶ä½œå¿…å¤‡å·¥å…·ä¸‹è½½: å·¥å…·ä¸‹è½½:  
+[peid 0.94ç”¨äºæŸ¥å£³,çŸ¥é“ä»€ä¹ˆå£³å°±å¯ä»¥è„±å£³æ‹‰:   ](http://www.pediy.com/tools/unpack/File_analysers/peid/peid.rar)
 
-[OllyDbg   µ÷ÊÔÆ÷µ÷ÊÔÓÎÏ·:   ](http://www.pediy.com/tools/Debuggers/ollydbg/OllyICE.rar)
-[ODÍÑ¿Ç½Å±¾  ÓÃÓÚÍÑ¿Ç:   ](http://www.pediy.com/tools/Debuggers/ollydbg/script.htm)
+[OllyDbg   è°ƒè¯•å™¨è°ƒè¯•æ¸¸æˆ:   ](http://www.pediy.com/tools/Debuggers/ollydbg/OllyICE.rar)
+[ODè„±å£³è„šæœ¬  ç”¨äºè„±å£³:   ](http://www.pediy.com/tools/Debuggers/ollydbg/script.htm)
 
-[LordPE    Ò»°ãÓÃÓÚÍÑ¿Ç.²»¹ı»¹ÓĞ±ğµÄÃîÓÃ...   ](http://www.pediy.com/tools/PE_tools/Lordpe/LPE-DLX.rar)
+[LordPE    ä¸€èˆ¬ç”¨äºè„±å£³.ä¸è¿‡è¿˜æœ‰åˆ«çš„å¦™ç”¨...   ](http://www.pediy.com/tools/PE_tools/Lordpe/LPE-DLX.rar)
 
-[ImportREC    ÍÑ¿ÇĞŞ¸´¹¤¾ß   ](http://www.pediy.com/tools/PE_tools/Rebuilder/Import%20REC/ucfir16f.rar)
+[ImportREC    è„±å£³ä¿®å¤å·¥å…·   ](http://www.pediy.com/tools/PE_tools/Rebuilder/Import%20REC/ucfir16f.rar)
 
-[eXeScope    ×ÊÔ´±à¼­ĞŞ¸´¹¤¾ß   ](http://www.pediy.com/tools/Resource/eXeScope/eXeScope.rar)
+[eXeScope    èµ„æºç¼–è¾‘ä¿®å¤å·¥å…·   ](http://www.pediy.com/tools/Resource/eXeScope/eXeScope.rar)
 
-[freeRes    ×ÊÔ´ÌáÈ¡¹¤¾ß(×¢²áÂëËæÒâÊäÈë)  ](http://www.pediy.com/tools/Resource/freeRes/freeRes0.94.zip)
+[freeRes    èµ„æºæå–å·¥å…·(æ³¨å†Œç éšæ„è¾“å…¥)  ](http://www.pediy.com/tools/Resource/freeRes/freeRes0.94.zip)
 
-[Resource Hacker    ×ÊÔ´±à¼­ĞŞ¸´¹¤¾ß  ](http://www.pediy.com/tools/Resource/Resource%20Hacker/reshhack3.4.zip)
+[Resource Hacker    èµ„æºç¼–è¾‘ä¿®å¤å·¥å…·  ](http://www.pediy.com/tools/Resource/Resource%20Hacker/reshhack3.4.zip)
 
-[WinHex    Ê®Áù½øÖÆ±à¼­¹¤¾ß(Ò»°ãÓÃÀ´ÌáÈ¡ÓÎÏ·µÄÁĞ±íµÈ...)   ](http://www.pediy.com/tools/Editors/winhex/WinHex_12.75_SR-6_HA.rar)
+[WinHex    åå…­è¿›åˆ¶ç¼–è¾‘å·¥å…·(ä¸€èˆ¬ç”¨æ¥æå–æ¸¸æˆçš„åˆ—è¡¨ç­‰...)   ](http://www.pediy.com/tools/Editors/winhex/WinHex_12.75_SR-6_HA.rar)
 
-[UltraEdit    ×öÍâ¹ÒµÄ~Ã»¼¸¸ö²»ÓÃÕâ¸ö^^(¿ÙµØÍ¼±ØĞëÒªÓÃµÄ¹ş..)   ](http://www.pediy.com/tools/Editors/Ultra-Edit/Ultraedit.14.hh.rar)
+[UltraEdit    åšå¤–æŒ‚çš„~æ²¡å‡ ä¸ªä¸ç”¨è¿™ä¸ª^^(æŠ åœ°å›¾å¿…é¡»è¦ç”¨çš„å“ˆ..)   ](http://www.pediy.com/tools/Editors/Ultra-Edit/Ultraedit.14.hh.rar)
 
-[IDA    ·´»ã±à¹¤¾ß(Ò»°ãÍøÂçÓÎÏ·¼Ó½âÃÜÕâ¸öÒ»¼ü¾Í¿ÉÒÔÁË.)   ](http://www.pediy.com/tools/Disassemblers/ida/DataRescue.IDA.Pro.Advanced.v5.2.windows-YAG.zip)
+[IDA    åæ±‡ç¼–å·¥å…·(ä¸€èˆ¬ç½‘ç»œæ¸¸æˆåŠ è§£å¯†è¿™ä¸ªä¸€é”®å°±å¯ä»¥äº†.)   ](http://www.pediy.com/tools/Disassemblers/ida/DataRescue.IDA.Pro.Advanced.v5.2.windows-YAG.zip)
 
-[C32Asm    ¾²Ì¬·´»ã±àÅ£X¹¤¾ß   ](http://www.pediy.com/tools/Disassemblers/C32Asm/C32Asm.rar)
+[C32Asm    é™æ€åæ±‡ç¼–ç‰›Xå·¥å…·   ](http://www.pediy.com/tools/Disassemblers/C32Asm/C32Asm.rar)
 
-[Cheat Engine    Ä¿Ç°×îºÃÓÃµÄÄÚ´æĞŞ¸ÄÆ÷   ](http://dl-sh-ctc-1.pchome.net/3p/hl/0706_by_10_gamersky.rar)
+[Cheat Engine    ç›®å‰æœ€å¥½ç”¨çš„å†…å­˜ä¿®æ”¹å™¨   ](http://dl-sh-ctc-1.pchome.net/3p/hl/0706_by_10_gamersky.rar)
 
-[·µ»Ø](../)
+[è¿”å›](../)
